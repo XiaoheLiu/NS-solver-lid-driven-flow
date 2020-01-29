@@ -1,0 +1,14 @@
+# C++ output files
+*.out
+*.log
+
+# Latex
+*.out
+*.log
+*.fls
+*.fdb_latexmk
+*.aux
+*.synctex.gz
+
+# Jupyter notebook
+.ipynb_checkpoints/
